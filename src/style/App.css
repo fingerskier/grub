@@ -1,0 +1,30 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: antiquewhite;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  padding: 1rem;
+}
+
+
+form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+
+#date-selector-list {
+  display: flex;
+  flex-direction: row;
+  /* flex-wrap: wrap; */
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+}

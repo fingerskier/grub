@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "grub",
+  "name": "grub weekly food tracker planner",
   "icons": [
     {
       "src": "favicon.ico",
