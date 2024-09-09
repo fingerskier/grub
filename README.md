@@ -3,7 +3,7 @@
 
 ## Calories per pound of food
 
-approximate calories per pound of food based on your breakdown of macronutrients (1/3 fat, 1/3 carbs, 1/3 protein), we can calculate as follows:
+approximate calories per pound of food based on a very rough approximation: calories from macronutrients, 1/3 from fat, 1/3 from carbs, 1/3 from protein:
 
 Fat: 9 kcal per gram
 Carbohydrates: 4 kcal per gram
