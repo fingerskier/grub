@@ -1,5 +1,7 @@
 # grub
 
+Live site: [https://fingerskier.github.io/grub/](https://fingerskier.github.io/grub/)
+
 
 ## Calories per pound of food
 
